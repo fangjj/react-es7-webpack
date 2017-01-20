@@ -13,7 +13,7 @@
     <code>npm install</code><br />
   * 开发模式，启动本地服务。修改文件，自动编译（不会打包输出到build文件夹，知识保存在内存），浏览器自动刷新<br />
   
-     <code>npm run dev</code>
+     <code>npm run start</code>
      
   * 文件打包，在build文件夹下生成main.css、vendor.js、main.js<br />
   
